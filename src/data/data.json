@@ -1,0 +1,129 @@
+{
+  "cocktails": [
+    {
+      "name": "Old fashioned",
+      "ingredients": ["Bourbon", "Cointreau", "Orange bitters", "bitters"],
+      "garnish": ["cherry", "orange peel", "lemon peel"],
+      "image": "old-fashioned.jpg"
+    },
+    {
+      "name": "Green Eyes",
+      "ingredients": [
+        "Gin 1½",
+        "Chartreuse ¾",
+        "Simple Syrup ½",
+        "Egg white ½ (optional)"
+      ],
+      "garnish": ["slice of lime", "cherry"],
+      "image": "green-eyes.jpg"
+    },
+    {
+      "name": "White Lady",
+      "ingredients": [
+        "2 Gin",
+        "½ Cointreau",
+        "¼ Simple Syrup",
+        "¾ Lemon",
+        "Egg White (optional)"
+      ],
+      "garnish": ["Orange/Lemon peel"],
+      "image": "white-lady.jpg"
+    },
+    {
+      "name": "Sidecar (Classic or Bourbon)",
+      "ingredients": ["VSOP Cognac", "Cointreau", "Lemon juice"],
+      "garnish": ["Orange or Lemon twist"],
+      "image": "sidecar.jpeg"
+    },
+    {
+      "name": "Margarita",
+      "ingredients": [
+        "2 tequila",
+        "¾ Cointreau",
+        "¾ Lime juice",
+        "¼ Simple Syrup"
+      ],
+      "garnish": ["Salted glass rim", "lime wedge"],
+      "image": "margarita.jpg"
+    },
+    {
+      "name": "First Valentine",
+      "ingredients": [
+        "Red Empress",
+        "Rose water",
+        "Simple Syrup",
+        "lime juice",
+        "egg white"
+      ],
+      "garnish": ["rose petals"],
+      "image": "first-valentine.jpg"
+    },
+    {
+      "name": "Smoke Screen",
+      "ingredients": [
+        "1 Grouse Scotch",
+        "½ Laphroaig Scotch",
+        "¼ Chartreuse",
+        "¾ Lime Juice",
+        "4 Mint leaves",
+        "½ Simple Syrup"
+      ],
+      "garnish": ["Mint"],
+      "image": "smoke-screen.jpg"
+    },
+    {
+      "name": "Last word",
+      "ingredients": [
+        "Dry Gin",
+        "Green Chartreuse",
+        "Cherry liquor",
+        "Lime juice"
+      ],
+      "garnish": ["Cherry"],
+      "image": "last-word.jpg"
+    },
+    {
+      "name": "Empress’s Kiss",
+      "ingredients": [
+        "Empress Gin Blue",
+        "blueberries",
+        "lime",
+        "Egg white",
+        "Simple syrup"
+      ],
+      "garnish": ["A purple flower"],
+      "image": "empress-kiss.jpg"
+    },
+    {
+      "name": "Basil Blackberry Bourbon",
+      "ingredients": ["Bourbon", "Blackberries", "Simple Syrup", "Basil"],
+      "garnish": ["Basil leaves"],
+      "image": "basil-blackberry-bourbon.jpg"
+    },
+    {
+      "name": "Whiskey Sour",
+      "ingredients": ["Bourbon", "lime", "simple syrup", "egg white"],
+      "garnish": ["orange twist"],
+      "image": "whiskey-sour.jpg"
+    },
+    {
+      "name": "Daiquiri",
+      "ingredients": ["2 Rum", "¾ lime", "½ Simple Syrup"],
+      "garnish": ["lime wedge"],
+      "image": "daiquiri.jpg"
+    },
+    {
+      "name": "Smoke and Mirrors",
+      "ingredients": [
+        "1 Famous Grouse Scotch",
+        "½ Laphroaig Scotch",
+        "4 Mint Leaves",
+        "½ Simple Syrup",
+        "¾ lime juice",
+        "2 dashes Absinthe"
+      ],
+      "garnish": ["Mint"],
+      "image": "smoke-and-mirrors.jpg"
+    }
+  ]
+}
