@@ -124,6 +124,17 @@
       ],
       "garnish": ["Mint"],
       "image": "smoke-and-mirrors.jpg"
+    },
+    {
+      "name": "Rusty Nail",
+      "ingredients": [
+        "Bourbon barrel Scotch",
+        "Chartreuse",
+        "Orange Liquor",
+        "2 dashes Absinthe"
+      ],
+      "garnish": ["lemon peel"],
+      "image": "rusty-nail.jpg"
     }
   ]
 }
